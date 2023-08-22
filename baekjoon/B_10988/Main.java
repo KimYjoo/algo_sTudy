@@ -1,3 +1,4 @@
+package B_10988;
 import java.util.Scanner;
 
 public class Main {
